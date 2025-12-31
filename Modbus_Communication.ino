@@ -1,4 +1,4 @@
-```
+
 #for slave 
 
 #include <ModbusRTU.h> // modbus library for r/w
@@ -84,4 +84,3 @@ void loop() {
     }
   }
 }
-```
